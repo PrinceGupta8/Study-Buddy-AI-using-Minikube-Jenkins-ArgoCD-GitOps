@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: llmops-app
-        image: pg87/studybuddy:v54
+        image: pg87/studybuddy:v55
         ports:
         - containerPort: 8501
         env:
