@@ -20,7 +20,7 @@ class Main:
     if 'rerun_trigger'not in st.session_state:
         st.session_state.rerun_trigger = False
     
-    st.title("Study Buddy AI New")
+    st.title("Study Buddy AI New NEW NEW NEW")
     
     st.sidebar.header("Quiz Settings")
 
